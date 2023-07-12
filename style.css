@@ -95,7 +95,7 @@ body {
 .attribution > a {
   color: hsl(150, 100%, 66%);
 }
-@media screen and (max-width: 450px) {
+@media (max-width: 450px) {
   .container {
     min-height: 200px;
   }
